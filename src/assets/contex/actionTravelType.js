@@ -1,0 +1,4 @@
+
+const SET_TRAVEL = 'SET_TRAVEL'
+
+export {SET_TRAVEL}
